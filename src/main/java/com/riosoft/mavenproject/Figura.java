@@ -7,7 +7,7 @@ package com.riosoft.mavenproject;
 
 /**
  *
- * @author ricardo
+ * @author https://netbeans.org/kb/docs/javaee/maven-websocketapi.html
  */
 public class Figura {
 
