@@ -1,5 +1,5 @@
 
-var wsUri = "ws://" + document.location.host + "/mavenproject/myHandler/i.htm";
+var wsUri = "ws://" + document.location.host + "/WebSocketWhitSpring/myHandler/i.htm";
 var websocket = new WebSocket(wsUri);
 
 websocket.onerror = function (evt) {
